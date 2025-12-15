@@ -1,0 +1,52 @@
+.playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+body{
+    background-color: #1D4221;
+    color: white;
+    font-family: "Playfair Display", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: #64A712;
+    color:white;
+      font-family: "Playfair Display", serif;
+
+}
+
+.passo{
+    display: none;
+}
+
+.ativo{
+    display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+} 
+main{ 
+    text-align: center;
+    max-width: 90%;
+}
+img {
+    max-width: 90%;
+}
+main {
+    text-align: center;
+    max-width: 90%;
+} 
+img {
+    max-width: 90%;
+}
